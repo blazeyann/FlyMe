@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Flyme</string>
+    <string name="destination">Destination</string>
+
+    <string name="enter_country">Enter country</string>
+    <string name="please_enter_country">Enter country</string>
+    <string name="enter_city">Enter city</string>
+    <string name="please_enter_city">Enter city</string>
+    <string name="enter_description">Enter description</string>
+    <string name="please_enter_description">Enter description</string>
+    <string name="get_destinations">get destinations</string>
+    <string name="select_destination_to_see_info">Select destination to see info</string>
+
+    <string name="add_destination">add destination</string>
+    <string name="city_placeholder">City: %s</string>
+    <string name="country_placeholder">Country: %s</string>
+    <string name="description_placeholder">Description: %s</string>
+
+    <string name="new_destination_added">New destination added</string>
+    <string name="error_adding_destination">Error adding destination</string>
+
+    <string name="check_internet_connection">Error: check internet connection</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- text sizes -->
+    <dimen name="text_normal">14sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+
+    <!-- margin sizes -->
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin">16dp</dimen>
+
+    <!-- margin sizes -->
+    <dimen name="progress_bar">24dp</dimen>
+</resources>
